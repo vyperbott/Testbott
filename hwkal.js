@@ -19,7 +19,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCir7aW7p5MIZSjiCi00L7Ig' // ubah aia
-global.ig = '' // ubah aja
+global.ig = 'vyperx_re4l' // ubah aja
 global.email = 'jansenbot96@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
